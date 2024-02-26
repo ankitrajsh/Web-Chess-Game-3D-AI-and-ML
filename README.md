@@ -1,6 +1,6 @@
 For a project focused on developing a Web Chess Game with 3D graphics, AI, and Machine Learning capabilities, here's a README.md template. Customize the content as necessary to fit the specifics of your project before adding it to your GitHub repository.
 
-```markdown
+
 # Web Chess Game with 3D, AI, and ML
 
 Welcome to the repository for our Web Chess Game, a project that combines stunning 3D graphics, challenging artificial intelligence, and advanced machine learning techniques to deliver an immersive chess playing experience. This game is designed for both beginners and seasoned players who seek to improve their skills by playing against a sophisticated AI or enjoy a visually rich game of chess online.
